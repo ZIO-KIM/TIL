@@ -1,2 +1,2 @@
-# TIL (Today I Learned)
- anything I've learned today
+# TIL (Today I Learned)  
+Commits anything I've learned today
